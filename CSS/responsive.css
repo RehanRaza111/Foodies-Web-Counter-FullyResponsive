@@ -1,0 +1,59 @@
+
+@media (max-width:1024px){
+    
+}
+
+
+
+
+@media (max-width:991px){
+    
+    /* Custom Classes */
+    .text-content{
+        width: 100%;
+    }
+
+/* Navbarbrand */
+.navigation-wrap .navbar-brand img{
+    height: 3.8125rem;
+}
+.navigation-wrap{
+    text-align: center;
+    background-color: var(--white-color);
+}
+
+.navigation-wrap .nav-link{
+    line-height: 1.875rem;
+     
+}
+
+/* banner Design */
+.top-banner{
+    padding: 9rem 0;
+}
+
+
+}
+
+
+@media (max-width:767px){
+
+/* Custom CSS */
+
+h1{
+    font-size: 1.8rem;
+}
+
+h2{
+    font-size: 1.4rem;
+    line-height: 2.065rem;
+
+}
+
+/* Top Banner  */
+
+.top-banner{
+    padding: 10.875rem 0 9.375rem;
+}
+
+}
